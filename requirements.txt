@@ -5,3 +5,5 @@ joblib
 pillow
 scikit-learn==1.6.1
 imbalanced-learn==0.14.0
+pytesseract==0.3.13
+pypdfium2==5.14.0
